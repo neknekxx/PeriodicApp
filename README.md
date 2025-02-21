@@ -45,6 +45,48 @@ the last thing to do is Ctrl+Click the "http://127.0.0.1:8000/" or copy and past
 BEFORE I FORGOT YOU NEED TO REGISTER FIRST
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+Features and Functionalities
+1. User Authentication & Authorization
+> Signup & Login – Users can create an account and log in.
+
+> User Roles - The admin can add, edit, and delete elements and regular users can only view elements and take quizzes. Logout button allows users to log out securely.
+
+
+2. Periodic Table Page
+> Interactive Periodic Table – Users can click on an element symbol to view its details.
+
+> CRUD Functionality for Elements (Admin Only) –
+      
+  >>Create: Add new elements.
+      
+  >>Read: View detailed information about each element.
+      
+  >>Update: Edit element details (name, atomic number, symbol, description, image).
+    
+  >>Delete: Remove an element.
+
+
+> Add Images & Descriptions – Users can upload images and update element descriptions.
+
+3. Quiz Section
+> Two Quiz Types:
+> >>Multiple Choice Quiz
+> >>Jumbled Words Quiz
+
+>  >>Randomized Questions – Questions appear in a random order for each quiz attempt.
+>  >
+>  >>Quiz Progress Indicator – Shows which question number the user is on.
+>  >
+>  >>Instant Feedback – Displays correct or incorrect responses.
+>  >
+>  >>Final Score Summary – Users can see their total score at the end of the quiz.
+>  >
+>  >>"Go Back" Button – Redirects users back to the quiz selection page after finishing.
 
 
 
