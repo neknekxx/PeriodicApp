@@ -88,5 +88,12 @@ Features and Functionalities
 >  >
 >  >>"Go Back" Button – Redirects users back to the quiz selection page after finishing.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Group Members:
+
+Bautista, Kenneth
+Magapi, Daniel
+Veneracion, Kurt
+Guevarra, Ma. Paula
 
