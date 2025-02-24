@@ -93,7 +93,11 @@ Features and Functionalities
 Group Members:
 
 Bautista, Kenneth
+
 Magapi, Daniel
+
 Veneracion, Kurt
+
 Guevarra, Ma. Paula
+
 
